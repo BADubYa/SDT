@@ -1,3 +1,1 @@
-# SDT
-
-# Sample Data Tracking
+# Sample Data Tracking (SDT)
