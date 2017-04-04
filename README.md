@@ -1,8 +1,8 @@
 # Sample Data Tracking (SDT)
 
-Sample Data Tracking is a work "related" project.I t is a utility I built for myself as a side project to a work assignment. My source code was only used by me. Consequently, I can only provide my source code, and not the supporting data and documents needed to successfully run an executable file, as this data is considered classified.
+Sample Data Tracking is a work "related" project. SDT  is a utility I built for myself as a side project to a work assignment. My source code was only used by me. Consequently, I while I can provide my source code, I cannot release the supporting data and documents needed to successfully run an executable file, as this data is considered classified.
 
 Please refer to the Power Point document for a more in depth description of what SDT entails.
 
-In short, SDT is a good example of how programming can organize data in a format that makes it much more accessible and digestible to an end user. It certaintly helped me in my first ever "on the job" programming assignment.
+In short, SDT is a good example of how programming can organize data in a format that makes it much more accessible and digestible to an end user. It certaintly helped me in my first ever, "on the job" programming assignment.
 
